@@ -1,0 +1,6 @@
+# This file is used to override language statistics
+Cargo.lock linguist-generated
+src/**/*.ts linguist-detectable
+*.html linguist-vendored
+*.min.css linguist-generated
+# eof e16c61d6
